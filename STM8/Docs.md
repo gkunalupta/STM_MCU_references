@@ -7,3 +7,6 @@ https://www.st.com/resource/en/reference_manual/cd00190271-stm8s-series-and-stm8
 https://www.st.com/content/ccc/resource/technical/document/user_manual/ca/89/41/4e/72/31/49/f4/CD00173911.pdf/files/CD00173911.pdf/jcr:content/translations/en.CD00173911.pdf
 
 https://www.st.com/resource/en/datasheet/stm8s103f3.pdf
+
+# stm8cubemx manual
+https://www.st.com/resource/en/user_manual/dm00336190-stm8-configuration-tool-stmicroelectronics.pdf
