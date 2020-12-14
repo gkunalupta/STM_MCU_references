@@ -19,4 +19,8 @@ https://www.st.com/content/ccc/resource/sales_and_marketing/presentation/product
 7) BLE : https://www.st.com/resource/en/user_manual/dm00631066-getting-started-with-the-stm32cube-function-pack-for-stm32wb-with-ble-connectivity-and-environmental-and-motion-sensors-stmicroelectronics.pdf
 
 
+https://www.st.com/en/applications/connectivity/bluetooth-low-energy.html#documentation
+
+
+
 
