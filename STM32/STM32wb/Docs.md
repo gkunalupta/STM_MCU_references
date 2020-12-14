@@ -9,3 +9,14 @@
 
 https://deepbluembedded.com/stm32-arm-programming-tutorials/
 
+5) STM32 wb55 board : https://www.st.com/resource/en/data_brief/p-nucleo-wb55.pdf
+
+6) STM32 hardware and BLE : https://www.st.com/resource/en/user_manual/dm00517423-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf
+
+https://www.st.com/content/ccc/resource/sales_and_marketing/presentation/product_presentation/group0/d3/74/d0/d9/ef/62/45/37/stm32wb_press-pres/files/stm32wb_press-pres.pdf/jcr:content/translations/en.stm32wb_press-pres.pdf
+
+
+7) BLE : https://www.st.com/resource/en/user_manual/dm00631066-getting-started-with-the-stm32cube-function-pack-for-stm32wb-with-ble-connectivity-and-environmental-and-motion-sensors-stmicroelectronics.pdf
+
+
+
