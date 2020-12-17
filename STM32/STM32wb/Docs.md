@@ -1,3 +1,9 @@
+Overview of STM32wb: https://blog.st.com/stm32wb55-stm32cubemonrf-p-nucleo-wb55/
+
+STM32 nucleo boards: https://www.st.com/content/ccc/resource/technical/document/user_manual/group0/ff/5d/51/50/db/12/47/98/DM00387966/files/DM00387966.pdf/jcr:content/translations/en.DM00387966.pdf
+
+
+
 1)reference manual and register detailed description: https://www.st.com/content/ccc/resource/technical/document/reference_manual/group0/83/cf/94/7a/35/a9/43/58/DM00318631/files/DM00318631.pdf/jcr:content/translations/en.DM00318631.pdf
 
 2) Databrief and features list : https://www.st.com/resource/en/datasheet/stm32wb55cc.pdf
@@ -22,5 +28,11 @@ https://www.st.com/content/ccc/resource/sales_and_marketing/presentation/product
 https://www.st.com/en/applications/connectivity/bluetooth-low-energy.html#documentation
 
 
+
+8) STM32wb55 SDK and Evalution tools (nucleo WB55): https://www.st.com/en/microcontrollers-microprocessors/stm32wb55rg.html#tools-software
+
+9) STM32wb55: getting started doc : file:///C:/Users/kunal/AppData/Local/Temp/Temp1_en.stm32cubewb_v1-10-0.zip/STM32Cube_FW_WB_V1.10.0/Documentation/STM32CubeWBGettingStarted.pdf
+
+10) STM32 wb online training videos + PDF: https://www.st.com/content/st_com/en/support/learning/stm32-education/stm32-online-training/stm32wb-online-training.html
 
 
