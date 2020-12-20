@@ -35,4 +35,5 @@ https://www.st.com/en/applications/connectivity/bluetooth-low-energy.html#docume
 
 10) STM32 wb online training videos + PDF: https://www.st.com/content/st_com/en/support/learning/stm32-education/stm32-online-training/stm32wb-online-training.html
 
+11) STM IDE manual: https://www.st.com/resource/en/user_manual/dm00629856-description-of-the-integrated-development-environment-for-stm32-products-stmicroelectronics.pdf
 
