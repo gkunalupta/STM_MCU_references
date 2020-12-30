@@ -10,3 +10,7 @@ https://www.st.com/resource/en/datasheet/stm8s103f3.pdf
 
 # stm8cubemx manual
 https://www.st.com/resource/en/user_manual/dm00336190-stm8-configuration-tool-stmicroelectronics.pdf
+
+
+
+stlink programmer with stm32 https://www.youtube.com/watch?v=d9MftOa28Pw
