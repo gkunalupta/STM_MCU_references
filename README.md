@@ -29,3 +29,6 @@ https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_C_libraries.html
 
 https://www.linuxtopia.org/online_books/an_introduction_to_gcc/index.html
 
+gnuc gcc command
+arm-none-eabi-gcc -E -mcpu=cortex-m4 -mthumb main.c -o main.i -I"C:\Users\kunal\Documents\stm32codes\32f103_empty_arm_
+cli\Inc"
